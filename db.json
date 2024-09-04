@@ -1,6 +1,7 @@
 {
     "todos": [
         { "text": "Obst kaufen" },
-        { "text": "Milch kaufen" }
+        { "text": "Milch kaufen" },
+        { "text": "Sport machen" }
     ]
 }
