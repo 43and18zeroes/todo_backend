@@ -3,5 +3,10 @@
         { "text": "Obst kaufen" },
         { "text": "Milch kaufen" },
         { "text": "Sport machen" }
+    ],
+    "notes": [
+        { "text": "notes" },
+        { "text": "notes" },
+        { "text": "notes" }
     ]
 }
